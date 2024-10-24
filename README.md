@@ -1,4 +1,4 @@
-# ABSTRATA_CONTA
+# CLASSE_ESTATICA
 
 Este repositório contém um projeto em Java que implementa uma classe ConversorUnidades e a classe principal Main. A classe ConversorUnidades inclui métodos estaticos.  
 
